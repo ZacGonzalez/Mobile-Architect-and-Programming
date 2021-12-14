@@ -31,25 +31,35 @@ Lastly, I worked on the notification settings page. This page should open if the
 
 What techniques or strategies did you use?
 
-
+I utilized various techniques and strategies that I learned from the Zybooks textbooks. I learned how to take in what the user wants and begin designing the app. 
+One useful strategy would be to try and put yourself in the user's shows to understand what would be ideal in the application.
 
 How could those be applied in the future?
 
-
+In the future, I can apply these strategies in a number of different ways. In any field it would be useful to put myself in the customer's shoes.
+This can help me make something that is attractive to anyone who may be potentially interested in the app.
 
 How did you test to ensure your code was functional?
 
+Unfortunately, my code is not fully functional at the moment. I can get the emulator to run and display the app, but the pages do not open correctly.
+That being said, I built and debugged the program numerous times while coding it.
+This helped me to fix each issue as it arrived and ensure that specific portion ran properly.
 
+Why is this process important and what did it reveal?
 
- Why is this process important and what did it reveal?
-
-
+This process is importent as, firstly, no one should expect anyone to purchase or download an app that is not functional.
+It is also wise to build and debug often in order to fix each issue as it arises rather than deal with multiple issues in the end.
+Also, it is helpful to test and debug often as there may be issues that the programmer is unaware of and they continue to code.
 
 Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
-
+While making this app, I had to innovate when I created the event database itself. I still am not fully sure if I made the database correctly, however I tried my best.
+I looked into the sections in the Zybooks notes, especially the sections revolving around SQLite.
+Again, I think I was, at least, on the right track. But, I unfortunately could not figure out how to get this to work properly.
 
 In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
-
+I am proud about the UI design within this app. Don't get me wrong, I know it is really simple. But, that is what I am aiming for.
+I did not want to make an overly complex looking app.
+I believe that the design I utilized was nice and the flow of the app was efficient.
 
