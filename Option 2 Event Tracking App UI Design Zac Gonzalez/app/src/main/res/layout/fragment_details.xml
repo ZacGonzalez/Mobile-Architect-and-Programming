@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.eventtrakingapp.DetailsFragment">
+
+    <TextView
+        android:id="@+id/userInformationUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/userInformationUsername"
+        android:text="band name"/>
+
+    <TextView
+        android:id="@+id/userInformationPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/userInformationPassword"
+        android:text="description"/>
+
+</LinearLayout>
